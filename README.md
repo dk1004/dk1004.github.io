@@ -1,5 +1,5 @@
 # dk1004.github.io
-Hi There
+Hi my name is David and this is my github.
 
 I'm currently enrolled in MIT MERN course.
 
